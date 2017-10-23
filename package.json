@@ -1,0 +1,22 @@
+{
+  "name": "theory-of-computation",
+  "version": "1.0.0",
+  "description": "Why do I have to build data structures and what are they for? Data structures are specific examples of mechanical, automated problem solving.",
+  "main": "codegen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ely-alamillo/Theory-Of-Computation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ely-alamillo/Theory-Of-Computation/issues"
+  },
+  "homepage": "https://github.com/ely-alamillo/Theory-Of-Computation#readme",
+  "dependencies": {
+    "narwhal": "0.0.2"
+  }
+}
